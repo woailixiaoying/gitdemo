@@ -1,2 +1,13 @@
 server:
   port: 8080
+
+spring:
+  datasource:
+    name: test
+        url: jdbc:mysql://localhost:3306/test
+        username: root
+        password: root
+        #数据源
+
+
+
